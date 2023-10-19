@@ -1,0 +1,8 @@
+C:\Users\control\source\repos\Axcell-SabadosITLA\Ejercicio 1\Ejercicios\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\control\source\repos\Axcell-SabadosITLA\Ejercicio 1\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\control\source\repos\Axcell-SabadosITLA\Ejercicio 1\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+C:\Users\control\source\repos\Axcell-SabadosITLA\Ejercicio 1\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\control\source\repos\Axcell-SabadosITLA\Ejercicio 1\Ejercicio\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\control\source\repos\Axcell-SabadosITLA\Ejercicio 1\Ejercicio\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\control\source\repos\Axcell-SabadosITLA\Ejercicio 1\Ejercicio\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+C:\Users\control\source\repos\Axcell-SabadosITLA\Ejercicio 1\Ejercicio\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache

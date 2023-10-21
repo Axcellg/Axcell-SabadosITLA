@@ -2,7 +2,7 @@
 
 public class Program
 {
-    public static void CalcularPerimetroCuadrado()
+     void CalcularPerimetroCuadrado()
     {
         Console.WriteLine("Ingrese el lado del cuadrado:");
         int lado = Convert.ToInt32(Console.ReadLine());
@@ -10,7 +10,7 @@ public class Program
         Console.WriteLine($"El perímetro del cuadrado es: {perimetro}");
     }
 
-    public static void CalcularSumaYProducto()
+     void CalcularSumaYProducto()
     {
         Console.WriteLine("Ingrese cuatro números:");
         int num1 = Convert.ToInt32(Console.ReadLine());
@@ -22,8 +22,7 @@ public class Program
         Console.WriteLine($"La suma de los dos primeros números es: {suma}");
         Console.WriteLine($"El producto del tercer y cuarto número es: {producto}");
     }
-
-    public static void CalcularSumaYPromedio()
+ void CalcularSumaYPromedio()
     {
         Console.WriteLine("Ingrese cuatro valores numéricos:");
         int valor1 = Convert.ToInt32(Console.ReadLine());
@@ -36,7 +35,7 @@ public class Program
         Console.WriteLine($"El promedio de los cuatro valores es: {promedio}");
     }
 
-    public static void Main()
+    void Main()
     {
         CalcularPerimetroCuadrado();
         CalcularSumaYProducto();

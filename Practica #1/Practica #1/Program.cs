@@ -1,30 +1,40 @@
 ﻿
-Console.WriteLine("Ingrese la Fecha de tu cumple:");
 
-int Mes = 0;
-int Dia = 0;
-int Año = 0 ;
+
+void calcularpromedio()
+{ 
+
+int suma = 0;
+int valor = 0;
+int promedio = 0 ;
+int cantidad = 3;
+int i = 1;
 string linea = string.Empty;
 
-//Pedir numeros //
-Console.WriteLine("Ingrese el valor de Mes: ");
-linea = Console.ReadLine();
-Mes = Convert.ToInt32(linea);
+    Console.WriteLine("Ingrese un número: ");
 
-Console.WriteLine("Ingrese el valor de Dia: ");
-linea = Console.ReadLine();
-Dia = Convert.ToInt32(linea);
+    while (i <= cantidad)
+{ 
+    Console.WriteLine("Ingrese un Valor: ");
+    linea = Console.ReadLine();
 
-Console.WriteLine("Ingrese el valor de Año: ");
-linea = Console.ReadLine();
-Año = Convert.ToInt32(linea);
 
-if(Mes == 1 || Mes == 2 || Mes == 3)
+    if (int.TryParse(linea, out int myvalue))
+    {
+        valor = myvalue;
+    }
+    else
+    {
+        Console.WriteLine("Entrada inválida. Por favor, ingrese un número entero.");
+        break;
+    }
 
-{
-    Console.WriteLine("El mes corresponde al primer trimestre");
+        suma = (suma + valor);
+            
+            }
+    promedio = ()
 }
-else
-{
-    Console.WriteLine("El mes no corresponde al primer trimestre");
+
+
+
 }

@@ -4,7 +4,7 @@
 
 namespace FormsEmpleados.Class
 {
-    internal class Acceso_a_datos
+    public class Acceso_a_datos
     {
         private List<Negocios> negocios;
 

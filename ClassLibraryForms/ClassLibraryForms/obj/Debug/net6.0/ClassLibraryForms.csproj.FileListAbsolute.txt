@@ -9,3 +9,14 @@ C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\ClassLibraryForms\Clas
 C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\refint\ClassLibraryForms.dll
 C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.pdb
 C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ref\ClassLibraryForms.dll
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\bin\Debug\net6.0\ClassLibraryForms.deps.json
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\bin\Debug\net6.0\ClassLibraryForms.dll
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\bin\Debug\net6.0\ClassLibraryForms.pdb
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.AssemblyInfoInputs.cache
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.AssemblyInfo.cs
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.csproj.CoreCompileInputs.cache
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.dll
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\refint\ClassLibraryForms.dll
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.pdb
+C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ref\ClassLibraryForms.dll

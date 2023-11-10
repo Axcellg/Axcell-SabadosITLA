@@ -4,13 +4,13 @@
     {
         #region "atributos o campos de nuestra clase"
 
-        private string _Nombres;
-        private string _Apellidos;
-        private string _CorreElectronico;
-        private string _telefono;
-        private string _Direccion;
-        private string _Posicion;
-        private string _Departamento;
+        private string? _Nombres;
+        private string? _Apellidos;
+        private string? _CorreElectronico;
+        private string? _telefono;
+        private string? _Direccion;
+        private string? _Posicion;
+        private string? _Departamento;
         private DateTime _fechaContratacion;
 
         #endregion
@@ -20,7 +20,7 @@
         /// <summary>
         /// Codigo de Empleado
         /// </summary>
-        public string Codigo { get; set; }
+        public string? Codigo { get; set; }
 
         /// <summary>
         /// Esta propiedad es para almacenar el Nombre del Empleado.

@@ -20,3 +20,14 @@ C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryF
 C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\refint\ClassLibraryForms.dll
 C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.pdb
 C:\Users\control\source\repos\Axcell-SabadosITLA\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ref\ClassLibraryForms.dll
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\bin\Debug\net6.0\ClassLibraryForms.deps.json
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\bin\Debug\net6.0\ClassLibraryForms.dll
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\bin\Debug\net6.0\ClassLibraryForms.pdb
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.AssemblyInfoInputs.cache
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.AssemblyInfo.cs
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.csproj.CoreCompileInputs.cache
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.dll
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\refint\ClassLibraryForms.dll
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ClassLibraryForms.pdb
+C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\ClassLibraryForms\obj\Debug\net6.0\ref\ClassLibraryForms.dll

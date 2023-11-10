@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label9 = new Label();
+            DatosdelEmpeado = new Label();
             btnGuardar = new Button();
             btnCancelar = new Button();
             dgvEmpleados = new DataGridView();
@@ -55,18 +55,17 @@
             gbDatosEmpleados.SuspendLayout();
             SuspendLayout();
             // 
-            // label9
+            // DatosdelEmpeado
             // 
-            label9.AutoSize = true;
-            label9.BorderStyle = BorderStyle.FixedSingle;
-            label9.Font = new Font("Sitka Small", 22F, FontStyle.Bold, GraphicsUnit.Point);
-            label9.ForeColor = Color.DarkGreen;
-            label9.Location = new Point(259, 21);
-            label9.Name = "label9";
-            label9.Size = new Size(348, 46);
-            label9.TabIndex = 40;
-            label9.Text = "Datos del Empleado ";
-            label9.Click += label9_Click;
+            DatosdelEmpeado.AutoSize = true;
+            DatosdelEmpeado.BorderStyle = BorderStyle.FixedSingle;
+            DatosdelEmpeado.Font = new Font("Sitka Small", 22F, FontStyle.Bold, GraphicsUnit.Point);
+            DatosdelEmpeado.ForeColor = Color.DarkGreen;
+            DatosdelEmpeado.Location = new Point(259, 21);
+            DatosdelEmpeado.Name = "DatosdelEmpeado";
+            DatosdelEmpeado.Size = new Size(348, 46);
+            DatosdelEmpeado.TabIndex = 40;
+            DatosdelEmpeado.Text = "Datos del Empleado ";
             // 
             // btnGuardar
             // 
@@ -91,6 +90,7 @@
             btnCancelar.TabIndex = 42;
             btnCancelar.Text = "Cancelar";
             btnCancelar.UseVisualStyleBackColor = false;
+            btnCancelar.Click += btnCancelar_Click_1;
             // 
             // dgvEmpleados
             // 
@@ -287,16 +287,15 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Gainsboro;
-            ClientSize = new Size(835, 703);
+            ClientSize = new Size(835, 701);
             Controls.Add(gbDatosEmpleados);
             Controls.Add(dgvEmpleados);
             Controls.Add(btnCancelar);
             Controls.Add(btnGuardar);
-            Controls.Add(label9);
+            Controls.Add(DatosdelEmpeado);
             ForeColor = SystemColors.ActiveCaptionText;
             Name = "FormEmpleado";
             Text = "FormEmpleado";
-            Load += FormEmpleado_Load;
             ((System.ComponentModel.ISupportInitialize)dgvEmpleados).EndInit();
             gbDatosEmpleados.ResumeLayout(false);
             gbDatosEmpleados.PerformLayout();
@@ -328,5 +327,6 @@
         private Label label1;
         private TextBox tbxCodigo;
         private Label label10;
+        private Label DatosdelEmpeado;
     }
 }

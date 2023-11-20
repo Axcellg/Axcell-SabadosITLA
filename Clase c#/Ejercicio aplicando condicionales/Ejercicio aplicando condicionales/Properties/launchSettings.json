@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Ejercicio aplicando condicionales": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

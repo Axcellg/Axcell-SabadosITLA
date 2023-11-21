@@ -25,7 +25,7 @@
         /// <summary>
         /// Esta propiedad es para almacenar el Nombre del Empleado.
         /// </summary>
-        public string Nombres
+        public string? Nombres
         {
             get { return _Nombres; }
             set { _Nombres = value; }
@@ -33,7 +33,7 @@
         /// <summary>
         /// Esta propiedad es para almancer los apellidos del Empleado.
         /// </summary>
-        public string Apellido
+        public string? Apellido
         {
             get { return _Apellidos; }
             set { _Apellidos = value; }
@@ -42,7 +42,7 @@
         /// <summary>
         /// Correo electronico del Empleado. 
         /// </summary>
-        public string CorreoElectronico
+        public string? CorreoElectronico
         {
             get { return _CorreElectronico; }
             set { _CorreElectronico = value; }
@@ -52,7 +52,7 @@
         /// <summary>
         /// El telefono del Empleado
         /// </summary>
-        public string Telefono
+        public string? Telefono
         {
             get { return _telefono; }
             set { _telefono = value; }
@@ -61,7 +61,7 @@
         /// <summary>
         /// Direccion del Empleado.
         /// </summary>
-        public string Direccion
+        public string? Direccion
         {
             get { return _Direccion; }
             set { _Direccion = value; }
@@ -70,7 +70,7 @@
         /// <summary>
         /// Posicion del Empleado.
         /// </summary>
-        public string Posicion
+        public string? Posicion
         {
             get { return _Posicion; }
             set { _Posicion = value; }
@@ -78,7 +78,7 @@
         /// <summary>
         /// Departamento del Empleado.
         /// </summary>
-        public string Departamento
+        public string? Departamento
         {
             get { return _Departamento; }
             set { _Departamento = value; }
@@ -93,7 +93,7 @@
             set { _fechaContratacion = value; }
         }
 
-        public string NombreCompleto
+        public string? NombreCompleto
         {
 
             get { return string.Concat(this._Nombres, "", this._Apellidos); }

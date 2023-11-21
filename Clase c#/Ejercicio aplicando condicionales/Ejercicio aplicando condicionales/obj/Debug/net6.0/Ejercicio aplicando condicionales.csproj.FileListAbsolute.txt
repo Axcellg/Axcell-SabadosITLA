@@ -12,3 +12,17 @@ C:\Users\control\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando co
 C:\Users\control\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\Ejercicio aplicando condicionales.pdb
 C:\Users\control\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\Ejercicio aplicando condicionales.genruntimeconfig.cache
 C:\Users\control\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\ref\Ejercicio aplicando condicionales.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\Ejercicio aplicando condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\Ejercicio aplicando condicionales.AssemblyInfoInputs.cache
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\Ejercicio aplicando condicionales.AssemblyInfo.cs
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\Ejercicio aplicando condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\Ejercicio aplicando condicionales.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\refint\Ejercicio aplicando condicionales.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\Ejercicio aplicando condicionales.pdb
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\bin\Debug\net6.0\Ejercicio aplicando condicionales.exe
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\bin\Debug\net6.0\Ejercicio aplicando condicionales.deps.json
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\bin\Debug\net6.0\Ejercicio aplicando condicionales.runtimeconfig.json
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\bin\Debug\net6.0\Ejercicio aplicando condicionales.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\bin\Debug\net6.0\Ejercicio aplicando condicionales.pdb
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\Ejercicio aplicando condicionales.genruntimeconfig.cache
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando condicionales\Ejercicio aplicando condicionales\obj\Debug\net6.0\ref\Ejercicio aplicando condicionales.dll

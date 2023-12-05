@@ -5,6 +5,11 @@
       "taskLabel": "tarea-pantalla windows form",
       "appliesTo": "Clase c#/pantalla windows form/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-Ejercicio aplicando bucles",
+      "appliesTo": "Clase c#/Ejercicio aplicando bucles/",
+      "type": "launch"
     }
   ]
 }

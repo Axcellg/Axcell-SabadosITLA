@@ -32,9 +32,9 @@ string linea = string.Empty;
         suma = (suma + valor);
             
             }
-    promedio = ()
+  
 }
 
 
 
-}
+

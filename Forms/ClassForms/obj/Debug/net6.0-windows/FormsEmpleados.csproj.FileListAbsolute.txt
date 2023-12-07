@@ -62,3 +62,19 @@ C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryF
 C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\FormsEmpleados\obj\Debug\net6.0-windows\FormsEmpleados.pdb
 C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\FormsEmpleados\obj\Debug\net6.0-windows\FormsEmpleados.genruntimeconfig.cache
 C:\Users\Axcell Hernandez\Source\Repos\Axcell-SabadosITLA\Clase c#\ClassLibraryForms\FormsEmpleados\obj\Debug\net6.0-windows\ref\FormsEmpleados.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\bin\Debug\net6.0-windows\FormsEmpleados.exe
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\bin\Debug\net6.0-windows\FormsEmpleados.deps.json
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\bin\Debug\net6.0-windows\FormsEmpleados.runtimeconfig.json
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\bin\Debug\net6.0-windows\FormsEmpleados.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\bin\Debug\net6.0-windows\FormsEmpleados.pdb
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\FormsEmpleados.FormEmpleado.resources
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\FormsEmpleados.csproj.GenerateResource.cache
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\FormsEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\FormsEmpleados.AssemblyInfoInputs.cache
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\FormsEmpleados.AssemblyInfo.cs
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\FormsEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\FormsEmpleados.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\refint\FormsEmpleados.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\FormsEmpleados.pdb
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\FormsEmpleados.genruntimeconfig.cache
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Forms\ClassForms\obj\Debug\net6.0-windows\ref\FormsEmpleados.dll

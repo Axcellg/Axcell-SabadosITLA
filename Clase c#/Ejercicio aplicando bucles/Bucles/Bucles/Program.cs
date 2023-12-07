@@ -1,22 +1,19 @@
-﻿/*Confeccionar un programa que lea n pares de datos, cada par de datos corresponde a la medida de la base y la altura de un triángulo.
- El programa deberá informar:
-a) De cada triángulo la medida de su base, su altura y su superficie.
-b) La cantidad de triángulos cuya superficie es mayor a 12.
-Desarrollar un programa que solicite la carga de 10 números e imprima la suma de los últimos 5 valores ingresados.*/
+﻿
+using System;
 
-
-using System.Drawing;
-
-public class Program2
+public class Program
 {
     private static void Main(string[] args)
     {
 
         MedidasdeunTriangulo();
+        SumadeNumeros();
+
 
         void MedidasdeunTriangulo()
 
         {
+            Console.WriteLine("------------------------------------------------------PRIMER PROGRAMA---------------------------------------------------");
 
             int Altura = 0;
             int Base = 0;
@@ -27,7 +24,7 @@ public class Program2
 
             Console.WriteLine("Ingrese la cantidad de triangulos : ");
             linea = Console.ReadLine();
-            Triangulo = Convert.ToInt32(linea);
+            
 
             if (int.TryParse(linea, out int mycantidad))
             {
@@ -44,31 +41,66 @@ public class Program2
 
             while (Triangulo <= cantidad)
             {
-                Console.WriteLine($"     LAS MEDIDAS DEL TRIANGULO {Triangulo}: ");
+               
+
+                Console.WriteLine($"     LAS MEDIDAS DEL TRIANGULO {Triangulo}:         " );
+
+                Console.WriteLine($"Ingrese la altura del triangulo {Triangulo}: ");
+                linea = Console.ReadLine();
+                Altura = Convert.ToInt32(linea);
 
                 Console.WriteLine($"Ingrese la base del triangulo {Triangulo}: ");
                 linea = Console.ReadLine();
                 Base = Convert.ToInt32(linea);
 
+                Console.WriteLine($"Ingrese la superficie del triangulo {Triangulo}: ");
+                linea = Console.ReadLine();
+                Superficie = Convert.ToInt32(linea);
 
 
-                if (int.TryParse(linea, out int myValue))
+                if (Superficie > 12)
                 {
-                    Base = myValue;
+                    Console.WriteLine($"¡Superficie del triangulo {Triangulo} es mayor a 12!");
                 }
-                else
+
+                else 
                 {
-                    Console.WriteLine("El valor digitado es inválido");
-                    break;
+                    Console.WriteLine($"La superficie del triangulo {Triangulo} no es mayor a 12 ");
+                    
                 }
 
                 Triangulo += 1;
 
-
-
+                Console.WriteLine("-----------------------------------------------------SEGUNDO PROGRAMA---------------------------------------------------");
 
             }
+
         }
+
+     
+
+        void SumadeNumeros()
+        {
+            int TNumeros = 10;
+            int[] numeros = new int[TNumeros];
+
+            for (int i = 0; i < TNumeros; i++)
+            {
+                Console.Write($"Ingrese el número {i + 1}: ");
+                numeros[i] = int.Parse(Console.ReadLine());
+            }
+            int sumaUltimos5 = 0;
+            for (int i = TNumeros - 5; i < TNumeros; i++)
+            {
+                sumaUltimos5 += numeros[i];
+            }
+
+            Console.WriteLine($"La suma de los últimos 5 valores ingresados es: {sumaUltimos5}");
+
+            
+        }
+
+
     }
 }
     

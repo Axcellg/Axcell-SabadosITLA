@@ -1,0 +1,11 @@
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\bin\Debug\net6.0\Creacion de clases.deps.json
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\bin\Debug\net6.0\Creacion de clases.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\bin\Debug\net6.0\Creacion de clases.pdb
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\obj\Debug\net6.0\Creacion de clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\obj\Debug\net6.0\Creacion de clases.AssemblyInfoInputs.cache
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\obj\Debug\net6.0\Creacion de clases.AssemblyInfo.cs
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\obj\Debug\net6.0\Creacion de clases.csproj.CoreCompileInputs.cache
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\obj\Debug\net6.0\Creacion de clases.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\obj\Debug\net6.0\refint\Creacion de clases.dll
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\obj\Debug\net6.0\Creacion de clases.pdb
+C:\Users\Axcell Hernandez\source\repos\Axcell-SabadosITLA\Clase c#\Ejercicio aplicando bucles\Creacion de clases\Creacion de clases\obj\Debug\net6.0\ref\Creacion de clases.dll

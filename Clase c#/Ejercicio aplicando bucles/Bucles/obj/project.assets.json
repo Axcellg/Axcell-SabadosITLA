@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Axcell Hernandez\\source\\repos\\Axcell-SabadosITLA\\Clase c#\\Ejercicio aplicando bucles\\Bucles\\Bucles\\Bucles.csproj",
+      "projectUniqueName": "C:\\Users\\Axcell Hernandez\\source\\repos\\Axcell-SabadosITLA\\Clase c#\\Ejercicio aplicando bucles\\Bucles\\Bucles.csproj",
       "projectName": "Bucles",
-      "projectPath": "C:\\Users\\Axcell Hernandez\\source\\repos\\Axcell-SabadosITLA\\Clase c#\\Ejercicio aplicando bucles\\Bucles\\Bucles\\Bucles.csproj",
+      "projectPath": "C:\\Users\\Axcell Hernandez\\source\\repos\\Axcell-SabadosITLA\\Clase c#\\Ejercicio aplicando bucles\\Bucles\\Bucles.csproj",
       "packagesPath": "C:\\Users\\Axcell Hernandez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Axcell Hernandez\\source\\repos\\Axcell-SabadosITLA\\Clase c#\\Ejercicio aplicando bucles\\Bucles\\Bucles\\obj\\",
+      "outputPath": "C:\\Users\\Axcell Hernandez\\source\\repos\\Axcell-SabadosITLA\\Clase c#\\Ejercicio aplicando bucles\\Bucles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

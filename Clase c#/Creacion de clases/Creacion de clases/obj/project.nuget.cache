@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "C3AhnjGo86Q4bh4jURF/o8MmGlND8Lrt5AEHPlCVXftivagOmOLQW5OdO45zzX8gwvPq6tM/mX0KGj7NvPQQdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Axcell Hernandez\\Source\\Repos\\Axcell-SabadosITLA\\Clase c#\\Creacion de clases\\Creacion de clases\\Creacion de clases.csproj",
+=======
   "dgSpecHash": "Stvz8JZVGdNwbdSpVxmP5hzLRok/nSPFVaq3SQFSWNcEBVedCyCxAQ1SbD9LlOVKTWpI9xFnA25xX+sRLUKIQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\control\\Source\\Repos\\Axcell-SabadosITLA\\Clase c#\\Creacion de clases\\Creacion de clases\\Creacion de clases.csproj",
+>>>>>>> 29ec45ace9c33c2e8515ed4301012765ad4fd7fe
   "expectedPackageFiles": [],
   "logs": []
 }
